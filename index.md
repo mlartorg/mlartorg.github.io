@@ -4,4 +4,4 @@
 
 We are a computational art community based in Saint-Petersburg, Russia. 
 
-Join our [Telegram group](https://t.me/mediaart_ml)
+Join our [Telegram group](https://t.me/mlart_chat)
