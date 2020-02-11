@@ -1,7 +1,6 @@
 ---
-layout: default
+title: machine learning art
 ---
-
 <video autoplay="autoplay" loop="loop" width="512" height="512">
   <source src="/assets/images/4a460.mp4" type="video/mp4">
 </video>
@@ -10,9 +9,11 @@ layout: default
 ### based in Saint-Petersburg, Russia. 
 ### Our mission is to ensure the beauty of artificial intelligence revolution. 
 
+
 ### We read papers
 ### We know can code 
 ### We love art
+
 
 ### Join us on [Telegram](https://t.me/mlart_chat)
 ### or come to our next meetup. 
