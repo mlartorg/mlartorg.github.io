@@ -9,11 +9,13 @@ title: machine learning art
 ### based in Saint-Petersburg, Russia. 
 ### Our mission is to ensure the beauty of artificial intelligence revolution. 
 
+###
 
-### We read papers
-### We know can code 
-### We love art
+### We read papers.
+### We can code.
+### We love art.
 
+###
 
 ### Join us on [Telegram](https://t.me/mlart_chat)
 ### or come to our next meetup. 
