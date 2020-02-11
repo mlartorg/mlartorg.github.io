@@ -1,7 +1,20 @@
-## Welcome to mlart.org
+---
+layout: default
+---
 
-[![meetup link](https://0x08.in/img/mlart_promo.jpg)](https://mlartorg.github.io/meetup_02022020/)
+<video autoplay="autoplay" loop="loop" width="512" height="512">
+  <source src="/assets/images/4a460.mp4" type="video/mp4">
+</video>
 
-We are a computational art community based in Saint-Petersburg, Russia. 
+We are a community of data scientists and media artists
+based in Saint-Petersburg, Russia. 
+Our mission is to ensure the beauty of artificial intelligence revolution. 
 
-Join our [Telegram group](https://t.me/mlart_chat)
+We read papers
+We know can code 
+We love art
+
+Join us on [Telegram](https://t.me/mlart_chat)
+or come to our next meetup. 
+All creatures welcome. 
+
