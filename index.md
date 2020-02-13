@@ -1,6 +1,7 @@
 ---
 title: machine learning art
 ---
+&nbsp;
 <video autoplay="autoplay" loop="loop" width="512" height="512">
   <source src="/assets/images/4a460.mp4" type="video/mp4">
 </video>
