@@ -17,7 +17,7 @@ title: machine learning art
 
 &nbsp;
 
-### Join us on [Telegram](https://t.me/mlart_chat), 
+### Join us on [Telegram](https://forms.gle/8P6nup5YH4V6yvt77), 
 ### or come to our next meetup. 
 ### All creatures welcome. 
 
