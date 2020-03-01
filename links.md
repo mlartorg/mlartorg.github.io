@@ -10,3 +10,5 @@
 
 
 [r/deepdream/](https://old.reddit.com/r/deepdream/) -- the biggest reddit community for AI art
+
+[aiartists.org](https://aiartists.org/) -- a list of artists working with AI
