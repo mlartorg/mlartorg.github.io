@@ -9,6 +9,8 @@
 
 [znah.net](https://znah.net/) -- personal website of Alex Mordvintsev, the Deep Dream creator.
 
+[also they have an instagram store](https://www.instagram.com/deepdreamstore/)
+
 [genekogan.com](https://genekogan.com/) -- personal website of Gene Kogan, author of ml4a course.
 
 [quasimondo.com/](http://quasimondo.com/) -- personal website of Mario Klingemann, a code artist
