@@ -1,5 +1,5 @@
 ---
-title: machine learning art
+title: 🤖📚🎨 machine learning art
 ---
 &nbsp;
 <video autoplay="autoplay" loop="loop" width="512" height="512">
