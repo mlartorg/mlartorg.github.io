@@ -17,7 +17,7 @@ title: 🤖📚🎨 machine learning art
 
 &nbsp;
 
-### Join us on [Telegram](https://forms.gle/8P6nup5YH4V6yvt77), 
+### Join us on [Open Call for Datafest](https://mlart.org/datafest), 
 ### or come to our next meetup. 
 ### All creatures welcome. 
 
