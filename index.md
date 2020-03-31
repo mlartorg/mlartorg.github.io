@@ -19,6 +19,5 @@ title: 🤖📚🎨 machine learning art
 
 ### Join us on [DataFest](https://fest.ai/) - the biggest conference about Data Science in Russia
 ### Here the [Open Call](https://mlart.org/datafest) for that, we summon your talent!
-### or come to our next meetup. 
 ### All creatures welcome. 
 
