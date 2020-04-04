@@ -2,6 +2,7 @@
 title: 🤖📚🎨 machine learning art
 ---
 &nbsp;
+# [Machine Learning Art online gallery OPEN CALL](https://forms.gle/sd2Qd3cLTNPKLMw29)
 <video autoplay="autoplay" loop="loop" width="512" height="512">
   <source src="/assets/images/4a460.mp4" type="video/mp4">
 </video>
@@ -17,7 +18,7 @@ title: 🤖📚🎨 machine learning art
 
 &nbsp;
 
-### Join us on [DataFest](https://fest.ai/) - the biggest conference about Data Science in Russia
+### Join us on [DataFest](https://mlart.org/datafest) - the biggest conference about Data Science in Russia
 ### Here the [Open Call](https://mlart.org/datafest) for that, we summon your talent!
 ### All creatures welcome. 
 
