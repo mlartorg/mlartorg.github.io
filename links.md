@@ -19,7 +19,9 @@
 ## communities
 
 [r/deepdream/](https://old.reddit.com/r/deepdream/) -- the biggest reddit community for AI art
+
 [r/MediaSynthesis](https://old.reddit.com/r/MediaSynthesis) -- another one
+
 [r/AIFreakout](https://old.reddit.com/r/AIfreakout) -- yet another
 
 [aiartists.org](https://aiartists.org/) -- a list of artists working with AI
