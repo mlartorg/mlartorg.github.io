@@ -2,9 +2,9 @@
 title: 🤖📚🎨 machine learning art
 ---
 &nbsp;
-# Machine Learning Art online gallery Open Call 
+# Machine Learning Art Open Call 
 
-![cover](assets/images/eclipse.jpg)
+![cover](assets/images/natural_habihat.png)
 
 *English version below*
 
