@@ -18,6 +18,6 @@ title: 🤖📚🎨 machine learning art
 &nbsp;
 
 ### Check out our [gallery](https://mlart.org/gallery)
-### Or come to our next meetup [DataFest](https://mlart.org/meetups)
+### Or come to our [next meetup](https://mlart.org/meetups)
 ### All creatures welcome. 
 
