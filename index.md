@@ -6,8 +6,9 @@ title: 🤖📚🎨 machine learning art
   <source src="/assets/images/deepdream_swing.mp4" type="video/mp4">
 </video>
 ### We are a community of data scientists and media artists
-### sharing and discussing art made with machine learning
 ### based in Saint-Petersburg, Russia. 
+### Our mission is to understand art through the lens of machine learning.
+
 
 &nbsp;
 
