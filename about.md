@@ -8,7 +8,7 @@ title: 🤖📚🎨 machine learning art
 </video>
 ### We are a community of data scientists and media artists
 ### based in Saint-Petersburg, Russia. 
-### Our mission is to ensure the beauty of the AI revolution.
+### Our mission is to understand art through the lens of machine learning.
 
 &nbsp;
 
@@ -18,7 +18,6 @@ title: 🤖📚🎨 machine learning art
 
 &nbsp;
 
-### Join us on [DataFest](https://mlart.org/datafest) - the biggest conference about Data Science in Russia
-### Here the [Open Call](https://mlart.org/datafest) for that, we summon your talent!
+### Join us on [DataFest](https://fest.ai/2020) - the biggest conference about Data Science in Eurasia
 ### All creatures welcome. 
 
