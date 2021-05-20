@@ -18,7 +18,7 @@ title: 🤖📚🎨 machine learning art
 
 &nbsp;
 
-### Check out our [gallery](https://mlart.org/gallery)
+### Check out our [gallery](https://mlart.org/state_of_the_art_2020)
 ### Or come to our [next meetup](https://mlart.org/datafest)
 ### All creatures welcome. 
 
